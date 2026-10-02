@@ -1,0 +1,29 @@
+# Compiled programs
+/caboose
+/h8_launch
+/h8_probe
+/h8_read
+
+# Compiler output
+*.o
+*.a
+*.so
+*.exe
+*.dll
+
+# Logger data and header backups
+*.bin
+*.csv
+
+# Local application settings
+caboose.conf
+
+# Editor backups and temporary files
+*~
+*.bak
+*.swp
+*.swo
+
+# Data directory
+data/
+devel/
